@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! 我是 Lucas Yang (楊晨信)
 
-<!--
-**ycs77/ycs77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 夜空中的小星星，也會閃耀著光芒~~
 
-Here are some ideas to get you started:
+#### 自我介紹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 喜歡探索有趣的事物。嗜好是看動漫。
+* 目前就讀國立空中大學 - 管理與資訊學系
+
+#### 使用框架
+
+* [Laravel](https://laravel.com/)
+* [Vue.js](https://cn.vuejs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Inertia.js](https://inertiajs.com/)
