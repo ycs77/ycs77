@@ -18,4 +18,6 @@
 
 ### 🎇狀態列
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycs77)](https://lucas-yang.vercel.app/)
+> Provide by: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycs77&show_icons=true&theme=prussian)](https://lucas-yang.vercel.app/)
