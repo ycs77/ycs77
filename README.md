@@ -1,4 +1,4 @@
-## Hi! 我是 Lucas Yang (楊晨信)
+## Hi! 我是 Lucas Yang
 
 ---
 
