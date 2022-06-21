@@ -18,13 +18,12 @@
 
 ### ⭐專案
 
-我的專案列表~
+下面是我的專案列表~
 
 #### Inertia.js
 * [Inertia Plugin](https://github.com/ycs77/inertia-plugin) - The plugin page loader for Inertia.js.
 * [Inertia.js Laravel SSR Head](https://github.com/ycs77/inertia-laravel-ssr-head) - Simple SSR Head for Inertia Laravel.
 * [Inertia.js Laravel Components](https://github.com/ycs77/inertia-laravel-components) - My Inertia.js Laravel & Vue components library
-* [Lightning](https://github.com/ycs77/lightning) - 使用 Laravel + Vue.js + Inertia.js + Tailwind CSS 構建的簡易部落格平台。
 
 #### Laravel
 * [Laravel Wizard](https://github.com/ycs77/laravel-wizard) - A web Setup Wizard for Laravel application.
@@ -40,7 +39,6 @@
 #### SASS
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, support mobile client.
 
-
-### ⭐狀態
+### ⭐狀態列
 
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycs77&show_icons=true&theme=prussian)](https://lucas-yang.vercel.app/)
