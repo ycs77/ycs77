@@ -8,9 +8,8 @@
 
 ### ⭐自我介紹
 
-* 喜歡探索有趣的事物
-* 嗜好是看動漫
 * 目前就讀國立空中大學 - 管理與資訊學系
+* 喜歡看動漫，遊戲玩崩壞3、原神
 
 ### ⭐框架
 
@@ -38,7 +37,3 @@
 
 #### SASS
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, support mobile client.
-
-### ⭐狀態列
-
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycs77&show_icons=true&theme=prussian)](https://lucas-yang.vercel.app/)
