@@ -6,18 +6,21 @@
 
 ---
 
-### ⭐自我介紹
+### ⭐自我介紹 - About
 
 * 目前就讀國立空中大學 - 管理與資訊學系
 * 喜歡看動漫，遊戲玩崩壞3、原神
 
-### ⭐框架
+### ⭐框架 - Frameworks
 
 [Laravel](https://laravel.com/) | [Vue.js](https://cn.vuejs.org/) | [Tailwind CSS](https://tailwindcss.com/) | [Inertia.js](https://inertiajs.com/)
 
-### ⭐專案
+### ⭐專案 - Projects
 
 下面是我的專案列表~
+
+#### Headless UI
+* [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
 
 #### Inertia.js
 * [Inertia Plugin](https://github.com/ycs77/inertia-plugin) - The plugin page loader for Inertia.js.
@@ -28,12 +31,17 @@
 * [Laravel Wizard](https://github.com/ycs77/laravel-wizard) - A web Setup Wizard for Laravel application.
 * [Glide for Laravel](https://github.com/ycs77/laravel-glide) - Glide image manipulation for Laravel.
 
-#### Headless UI
-* [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
-
 #### jQuery
 * [C Share buttons](https://github.com/ycs77/jquery-plugin-c-share) - Share to community buttons.
 * [Bootstrap Modal](https://github.com/ycs77/jquery-plugin-bsModal) - Generate bootstrap 4 modal, And crop&upload image modal.
 
 #### SASS
-* [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, support mobile client.
+* [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that support the mobile client.
+
+### ⭐Sponsor
+
+如果我的套件有幫助到你，可以考慮贊助我~ 我會很感謝你~
+
+If you think my packages have helped you, you can become my sponsor to support me~
+
+[Become a sponsor](https://www.patreon.com/ycs77) can show your avatar on my open-source project README.
