@@ -40,8 +40,6 @@
 
 ### ⭐Sponsor
 
-如果我的套件有幫助到你，可以考慮贊助我~ 我會很感謝你~
+如果我的套件有幫助到你，可以考慮[贊助我](https://www.patreon.com/ycs77)~ 我會很感謝你~ 而且還可以顯示您的大頭貼在我的開源專案的 README。
 
-If you think my packages have helped you, you can become my sponsor to support me~
-
-[Become a sponsor](https://www.patreon.com/ycs77) can show your avatar on my open-source project README.
+If you think my packages have helped you, can [Become a sponsor](https://www.patreon.com/ycs77) to support my work~ and can show your avatar on my open-source project README.
