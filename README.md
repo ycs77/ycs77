@@ -44,6 +44,6 @@
 
 If you think my packages have helped you, can [Become a sponsor](https://www.patreon.com/ycs77) to support my work~ and your avatar will be visible on my major projects.
 
-<a href="https://www.patreon.com/ycs77" target="_blank">
+<a href="https://www.patreon.com/ycs77">
 <img alt="Become a Patron" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" />
 </a>
