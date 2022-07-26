@@ -11,9 +11,15 @@
 * 目前就讀國立空中大學 - 管理與資訊學系
 * 喜歡看動漫，遊戲玩崩壞3、原神
 
-### ⭐框架 - Frameworks
+### ⭐技能 - Skills
 
-[Laravel](https://laravel.com/) | [Vue.js](https://cn.vuejs.org/) | [Tailwind CSS](https://tailwindcss.com/) | [Inertia.js](https://inertiajs.com/)
+[![Laravel Logo](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
+[![Vue.js Logo](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
+[![Tailwind CSS Logo](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+<a href="https://inertiajs.com/"><img src="https://lucas-yang.vercel.app/images/inertiajs-logo-rounded.svg" width="48" height="48"></a>
+[![TypeScript Logo](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Vite Logo](https://skillicons.dev/icons?i=vite&theme=light)](https://vitejs.dev/)
+[![VSCode Logo](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
 
 ### ⭐專案 - Projects
 
