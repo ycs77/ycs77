@@ -55,4 +55,4 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 | ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season | ![](https://lain.bgm.tv/pic/cover/g/f7/11/330057_wMWZn.jpg) | 打工吧，魔王大人！ |
 | ![](https://lain.bgm.tv/pic/cover/g/a6/f0/315745_n981m.jpg) | 出租女友 第二季 | ![](https://lain.bgm.tv/pic/cover/g/dd/cd/356774_zOW55.jpg) | 徹夜之歌 |
 
-*[我的追番列表](https://bangumi.tv/anime/list/715333/do)*
+⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
