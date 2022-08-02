@@ -34,6 +34,7 @@
 * [C Share buttons](https://github.com/ycs77/jquery-plugin-c-share) - Share to community buttons.
 * [Bootstrap Modal](https://github.com/ycs77/jquery-plugin-bsModal) - Generate bootstrap 4 modal, And crop&upload image modal.
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that support the mobile client.
+* [README 追番列表](https://github.com/ycs77/readme-anime-list) - 自動更新 README 追番列表的 GitHub Action 套件
 
 ### ⭐Sponsor
 
