@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+  push:
+  schedule:
+    - cron: '0 */1 * * *'
+
+jobs:
+  anime_list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: ycs77/readme-anime-list@main
+        with:
+          target: 'README.md'
+          template: 'template/README-eta.md'
+          bangumi_username: '715333'
+          bangumi_limit: 10
+          user_agent: 'ycs77/ycs77 README'
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: 'Update generated README'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
