@@ -51,4 +51,4 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 | --- | --- | --- | --- |
 <% it.data.forEach(function (anime, index) { %><%= index % 2 == 0 ? '|' : '' %> ![](<%= anime.subject.images.grid %>) | <%= anime.subject.name_cn %> |<%= index % 2 == 1 ? '\n' : '' %><% }) %>
 
-*[我的追番列表](https://bangumi.tv/anime/list/715333/do)*
+⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
