@@ -51,10 +51,10 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/33/cb/375531_sGP7p.jpg) | 红白黑黄 冰雪帝国 | ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 |
-| ![](https://lain.bgm.tv/pic/cover/g/ac/26/366793_y3V9C.jpg) | 天籟人偶 | ![](https://lain.bgm.tv/pic/cover/g/81/98/332133_PUJQ9.jpg) | 風都偵探 |
-| ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV | ![](https://lain.bgm.tv/pic/cover/g/25/2f/382852_zIy88.jpg) | 最近僱的女僕有點怪 |
-| ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_9vIpV.jpg) | 黑之召喚士 | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_cZy9c.jpg) | 契約之吻 |
-| ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_9lB1T.jpg) | 莉可麗絲 | ![](https://lain.bgm.tv/pic/cover/g/88/ce/359985_wI8c7.jpg) | 神渣☆偶像 |
+| ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 | ![](https://lain.bgm.tv/pic/cover/g/33/cb/375531_sGP7p.jpg) | 红白黑黄 冰雪帝国 |
+| ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 | ![](https://lain.bgm.tv/pic/cover/g/ac/26/366793_y3V9C.jpg) | 天籟人偶 |
+| ![](https://lain.bgm.tv/pic/cover/g/81/98/332133_PUJQ9.jpg) | 風都偵探 | ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV |
+| ![](https://lain.bgm.tv/pic/cover/g/25/2f/382852_zIy88.jpg) | 最近僱的女僕有點怪 | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_9vIpV.jpg) | 黑之召喚士 |
+| ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_cZy9c.jpg) | 契約之吻 | ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_9lB1T.jpg) | 莉可麗絲 |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
