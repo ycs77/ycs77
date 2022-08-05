@@ -37,15 +37,23 @@
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that support the mobile client.
 * [README 追番列表](https://github.com/ycs77/readme-anime-list) - 自動更新 README 追番列表的 GitHub Action 套件
 
-### ⭐Sponsor
+### ⭐贊助 - Sponsor
 
 如果我的套件有幫助到你，可以考慮[贊助我](https://www.patreon.com/ycs77)~ 我會很感謝你~ 而且還可以顯示您的大頭貼在我的主要專案中。
 
 If you think my packages have helped you, please consider [Become a sponsor](https://www.patreon.com/ycs77) to support my work~ and your avatar will be visible on my major projects.
 
+<p align="center">
+  <a href="https://www.patreon.com/ycs77">
+    <img src="https://cdn.jsdelivr.net/gh/ycs77/static/sponsors.svg"/>
+  </a>
+</p>
+
 <a href="https://www.patreon.com/ycs77">
-<img alt="Become a Patron" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" />
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron" />
 </a>
+
+<br />
 
 ### ⭐追番 - Anime
 
