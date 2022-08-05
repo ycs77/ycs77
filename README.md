@@ -60,7 +60,7 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
 | ![](https://lain.bgm.tv/pic/cover/g/dd/cd/356774_zOW55.jpg) | 徹夜之歌 | ![](https://lain.bgm.tv/pic/cover/g/f7/11/330057_wMWZn.jpg) | 打工吧，魔王大人！ |
-| ![](https://lain.bgm.tv/pic/cover/g/2d/d8/348538_U77q4.jpg) | 組長女兒與保姆 | ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 |
+| ![](https://lain.bgm.tv/pic/cover/g/2d/d8/348538_VNKOY.jpg) | 組長女兒與保姆 | ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 |
 | ![](https://lain.bgm.tv/pic/cover/g/33/cb/375531_sGP7p.jpg) | RWBY 冰雪帝國 | ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 |
 | ![](https://lain.bgm.tv/pic/cover/g/ac/26/366793_y3V9C.jpg) | 天籟人偶 | ![](https://lain.bgm.tv/pic/cover/g/81/98/332133_PUJQ9.jpg) | 風都偵探 |
 | ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV | ![](https://lain.bgm.tv/pic/cover/g/25/2f/382852_zIy88.jpg) | 最近僱的女僕有點怪 |
