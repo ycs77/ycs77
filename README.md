@@ -59,10 +59,10 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_cZy9c.jpg) | 契約之吻 | ![](https://lain.bgm.tv/pic/cover/g/a6/f0/315745_n981m.jpg) | 出租女友 第二季 |
-| ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_9vIpV.jpg) | 黑之召喚士 | ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_9lB1T.jpg) | 莉可麗絲 |
-| ![](https://lain.bgm.tv/pic/cover/g/88/ce/359985_wI8c7.jpg) | 神渣☆偶像 | ![](https://lain.bgm.tv/pic/cover/g/dd/cd/356774_zOW55.jpg) | 徹夜之歌 |
-| ![](https://lain.bgm.tv/pic/cover/g/f7/11/330057_wMWZn.jpg) | 打工吧，魔王大人！ | ![](https://lain.bgm.tv/pic/cover/g/2d/d8/348538_VNKOY.jpg) | 組長女兒與保姆 |
-| ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 | ![](https://lain.bgm.tv/pic/cover/g/33/cb/375531_sGP7p.jpg) | RWBY 冰雪帝國 |
+| ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_cZy9c.jpg) | 契約之吻 |
+| ![](https://lain.bgm.tv/pic/cover/g/a6/f0/315745_n981m.jpg) | 出租女友 第二季 | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_9vIpV.jpg) | 黑之召喚士 |
+| ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_9lB1T.jpg) | 莉可麗絲 | ![](https://lain.bgm.tv/pic/cover/g/88/ce/359985_wI8c7.jpg) | 神渣☆偶像 |
+| ![](https://lain.bgm.tv/pic/cover/g/dd/cd/356774_zOW55.jpg) | 徹夜之歌 | ![](https://lain.bgm.tv/pic/cover/g/f7/11/330057_wMWZn.jpg) | 打工吧，魔王大人！ |
+| ![](https://lain.bgm.tv/pic/cover/g/2d/d8/348538_VNKOY.jpg) | 組長女兒與保姆 | ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
