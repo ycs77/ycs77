@@ -59,10 +59,10 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/81/98/332133_PUJQ9.jpg) | 風都偵探 | ![](https://lain.bgm.tv/pic/cover/g/a8/2c/354146_qU41Z.jpg) | Love Live! Superstar!! 第二季 |
-| ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 |
-| ![](https://lain.bgm.tv/pic/cover/g/a6/f0/315745_n981m.jpg) | 出租女友 第二季 | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_9vIpV.jpg) | 黑之召喚士 |
-| ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 | ![](https://lain.bgm.tv/pic/cover/g/88/ce/359985_wI8c7.jpg) | 神渣☆偶像 |
-| ![](https://lain.bgm.tv/pic/cover/g/dd/cd/356774_zOW55.jpg) | 徹夜之歌 | ![](https://lain.bgm.tv/pic/cover/g/f7/11/330057_wMWZn.jpg) | 打工吧，魔王大人！ |
+| ![](https://lain.bgm.tv/pic/cover/g/05/43/342200_2hdHa.jpg) | 異世界藥局 | ![](https://lain.bgm.tv/pic/cover/g/68/c0/326869_drW42.jpg) | 轉生賢者的異世界生活～取得第二職業，成為世界最強～ |
+| ![](https://lain.bgm.tv/pic/cover/g/c8/8a/371546_Df9ri.jpg) | 歡迎來到實力至上主義教室 第二季 | ![](https://lain.bgm.tv/pic/cover/g/81/98/332133_PUJQ9.jpg) | 風都偵探 |
+| ![](https://lain.bgm.tv/pic/cover/g/a8/2c/354146_qU41Z.jpg) | Love Live! Superstar!! 第二季 | ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season |
+| ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 | ![](https://lain.bgm.tv/pic/cover/g/a6/f0/315745_n981m.jpg) | 出租女友 第二季 |
+| ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_9vIpV.jpg) | 黑之召喚士 | ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
