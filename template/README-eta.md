@@ -34,14 +34,14 @@
 * [Glide for Laravel](https://github.com/ycs77/laravel-glide) - Glide image manipulation for Laravel.
 * [C Share buttons](https://github.com/ycs77/jquery-plugin-c-share) - Share to community buttons.
 * [Bootstrap Modal](https://github.com/ycs77/jquery-plugin-bsModal) - Generate bootstrap 4 modal, And crop&upload image modal.
-* [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that support the mobile client.
+* [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that supports the mobile client.
 * [README 追番列表](https://github.com/ycs77/readme-anime-list) - 自動更新 README 追番列表的 GitHub Action 套件
 
 ### ⭐贊助 - Sponsor
 
-如果我的套件有幫助到你，可以考慮[贊助我](https://www.patreon.com/ycs77)~ 我會很感謝你~ 而且還可以顯示您的大頭貼在我的主要專案中。
+如果我製作的套件有幫助到你，可以考慮[贊助我](https://www.patreon.com/ycs77)~ 我會很感謝你~ 而且還可以顯示您的大頭貼在我的主要專案中。
 
-If you think my packages have helped you, please consider [Become a sponsor](https://www.patreon.com/ycs77) to support my work~ and your avatar will be visible on my major projects.
+If you think my created packages have helped you, please consider [Becoming a sponsor](https://www.patreon.com/ycs77) to support my work~ and your avatar will be visible on my major projects.
 
 <p align="center">
   <a href="https://www.patreon.com/ycs77">
