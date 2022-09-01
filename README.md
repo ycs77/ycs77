@@ -59,10 +59,10 @@ If you think my packages have helped you, please consider [Become a sponsor](htt
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/88/ce/359985_wI8c7.jpg) | 神渣☆偶像 | ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 |
-| ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 |
-| ![](https://lain.bgm.tv/pic/cover/g/2d/d8/348538_t17u3.jpg) | 組長女兒與保姆 | ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 |
-| ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV | ![](https://lain.bgm.tv/pic/cover/g/05/43/342200_2hdHa.jpg) | 異世界藥局 |
-| ![](https://lain.bgm.tv/pic/cover/g/68/c0/326869_drW42.jpg) | 轉生賢者的異世界生活～取得第二職業，成為世界最強～ | ![](https://lain.bgm.tv/pic/cover/g/c8/8a/371546_Df9ri.jpg) | 歡迎來到實力至上主義教室 第二季 |
+| ![](https://lain.bgm.tv/pic/cover/g/d9/f5/326895_j1S2n.jpg) | 夏日重现 | ![](https://lain.bgm.tv/pic/cover/g/88/ce/359985_wI8c7.jpg) | 神渣☆偶像 |
+| ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 |
+| ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 | ![](https://lain.bgm.tv/pic/cover/g/2d/d8/348538_t17u3.jpg) | 組長女兒與保姆 |
+| ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 | ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV |
+| ![](https://lain.bgm.tv/pic/cover/g/05/43/342200_2hdHa.jpg) | 異世界藥局 | ![](https://lain.bgm.tv/pic/cover/g/68/c0/326869_drW42.jpg) | 轉生賢者的異世界生活～取得第二職業，成為世界最強～ |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
