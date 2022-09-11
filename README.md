@@ -59,7 +59,7 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_0r2KS.jpg) | 來自深淵 烈日的黃金鄉 | ![](https://lain.bgm.tv/pic/cover/g/c8/8a/371546_Df9ri.jpg) | 歡迎來到實力至上主義教室 第二季 |
+| ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 | ![](https://lain.bgm.tv/pic/cover/g/c8/8a/371546_Df9ri.jpg) | 歡迎來到實力至上主義教室 第二季 |
 | ![](https://lain.bgm.tv/pic/cover/g/a8/2c/354146_qU41Z.jpg) | Love Live! Superstar!! 第二季 | ![](https://lain.bgm.tv/pic/cover/g/05/43/342200_2hdHa.jpg) | 異世界藥局 |
 | ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 |
 | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 | ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 |
