@@ -59,10 +59,10 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 | ![](https://lain.bgm.tv/pic/cover/g/1a/75/339326_v466V.jpg) | 異世界舅舅 |
-| ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 |
-| ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season | ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 |
-| ![](https://lain.bgm.tv/pic/cover/g/1c/35/354414_u4TG0.jpg) | SHINE POST | ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV |
-| ![](https://lain.bgm.tv/pic/cover/g/d9/f5/326895_j1S2n.jpg) | 夏日重現 | ![](https://lain.bgm.tv/pic/cover/g/c8/8a/371546_Df9ri.jpg) | 歡迎來到實力至上主義教室 第二季 |
+| ![](https://lain.bgm.tv/pic/cover/g/9c/c5/371396_5DwG5.jpg) | 幽零幻鏡 | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 |
+| ![](https://lain.bgm.tv/pic/cover/g/1a/75/339326_v466V.jpg) | 異世界舅舅 | ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 |
+| ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 | ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season |
+| ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 | ![](https://lain.bgm.tv/pic/cover/g/1c/35/354414_u4TG0.jpg) | SHINE POST |
+| ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV | ![](https://lain.bgm.tv/pic/cover/g/d9/f5/326895_j1S2n.jpg) | 夏日重現 |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
