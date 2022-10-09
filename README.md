@@ -59,10 +59,10 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| ![](https://lain.bgm.tv/pic/cover/g/68/c0/326869_drW42.jpg) | 轉生賢者的異世界生活～取得第二職業，成為世界最強～ | ![](https://lain.bgm.tv/pic/cover/g/9c/c5/371396_5DwG5.jpg) | 幽零幻鏡 |
-| ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 | ![](https://lain.bgm.tv/pic/cover/g/1a/75/339326_v466V.jpg) | 異世界舅舅 |
-| ![](https://lain.bgm.tv/pic/cover/g/65/19/364450_xx2zx.jpg) | 莉可麗絲 | ![](https://lain.bgm.tv/pic/cover/g/25/cd/375817_O7LGk.jpg) | 契約之吻 |
-| ![](https://lain.bgm.tv/pic/cover/g/df/b7/349084_N5Zvo.jpg) | 影宅 2nd Season | ![](https://lain.bgm.tv/pic/cover/g/ae/18/298477_eBaQ8.jpg) | 來自深淵 烈日的黃金鄉 |
-| ![](https://lain.bgm.tv/pic/cover/g/1c/35/354414_u4TG0.jpg) | SHINE POST | ![](https://lain.bgm.tv/pic/cover/g/69/c7/335389_Z8WRS.jpg) | OVERLORD IV |
+| ![](https://lain.bgm.tv/pic/cover/g/ba/28/331445_cUsfp.jpg) | Do It Yourself!! | ![](https://lain.bgm.tv/pic/cover/g/da/3d/389450_OyqwI.jpg) | 秋葉原冥途戰爭 |
+| ![](https://lain.bgm.tv/pic/cover/g/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | ![](https://lain.bgm.tv/pic/cover/g/f1/fd/349441_uND33.jpg) | 機動戰士鋼彈 水星的魔女 |
+| ![](https://lain.bgm.tv/pic/cover/g/e5/10/350224_GkByG.jpg) | 轉生就是劍 | ![](https://lain.bgm.tv/pic/cover/g/0e/c7/344874_qS88b.jpg) | 我家師傅沒有尾巴 |
+| ![](https://lain.bgm.tv/pic/cover/g/b4/db/341163_l525N.jpg) | 藍色監獄 | ![](https://lain.bgm.tv/pic/cover/g/64/5a/290980_Jju6q.jpg) | 前進吧！登山少女 Next Summit |
+| ![](https://lain.bgm.tv/pic/cover/g/1c/35/354414_u4TG0.jpg) | SHINE POST | ![](https://lain.bgm.tv/pic/cover/g/a8/2c/354146_qU41Z.jpg) | Love Live! Superstar!! 第二季 |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
