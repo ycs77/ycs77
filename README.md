@@ -59,10 +59,10 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
+| ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 | ![](https://lain.bgm.tv/pic/cover/g/2e/91/368617_80B54.jpg) | 黑之召喚士 |
+| ![](https://lain.bgm.tv/pic/cover/g/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | ![](https://lain.bgm.tv/pic/cover/g/a8/2c/354146_qU41Z.jpg) | Love Live! Superstar!! 第二季 |
 | ![](https://lain.bgm.tv/pic/cover/g/64/5a/290980_Jju6q.jpg) | 前進吧！登山少女 Next Summit | ![](https://lain.bgm.tv/pic/cover/g/b4/db/341163_l525N.jpg) | 藍色監獄 |
-| ![](https://lain.bgm.tv/pic/cover/g/e2/e7/328609_QzCa9.jpg) | 孤獨搖滾！ | ![](https://lain.bgm.tv/pic/cover/g/49/54/343106_cT6ZV.jpg) | 繼母的拖油瓶是我的前女友 |
-| ![](https://lain.bgm.tv/pic/cover/g/a8/2c/354146_qU41Z.jpg) | Love Live! Superstar!! 第二季 | ![](https://lain.bgm.tv/pic/cover/g/05/43/342200_2hdHa.jpg) | 異世界藥局 |
-| ![](https://lain.bgm.tv/pic/cover/g/ba/28/331445_cUsfp.jpg) | Do It Yourself!! | ![](https://lain.bgm.tv/pic/cover/g/da/3d/389450_OyqwI.jpg) | 秋叶原冥途战争 |
-| ![](https://lain.bgm.tv/pic/cover/g/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | ![](https://lain.bgm.tv/pic/cover/g/f1/fd/349441_uND33.jpg) | 機動戰士鋼彈 水星的魔女 |
+| ![](https://lain.bgm.tv/pic/cover/g/e2/e7/328609_QzCa9.jpg) | 孤獨搖滾！ | ![](https://lain.bgm.tv/pic/cover/g/ba/28/331445_cUsfp.jpg) | Do It Yourself!! |
+| ![](https://lain.bgm.tv/pic/cover/g/da/3d/389450_OyqwI.jpg) | 秋叶原冥途战争 | ![](https://lain.bgm.tv/pic/cover/g/f1/fd/349441_uND33.jpg) | 機動戰士鋼彈 水星的魔女 |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
