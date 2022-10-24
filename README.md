@@ -59,10 +59,10 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| [![](https://lain.bgm.tv/pic/cover/g/a9/db/376565_XDCfq.jpg)](https://lain.bgm.tv/pic/cover/l/a9/db/376565_XDCfq.jpg) | 4個人各自有著自己的秘密 | [![](https://lain.bgm.tv/pic/cover/g/0e/c7/344874_qS88b.jpg)](https://lain.bgm.tv/pic/cover/l/0e/c7/344874_qS88b.jpg) | 我家師傅沒有尾巴 |
-| [![](https://lain.bgm.tv/pic/cover/g/ac/26/366793_y3V9C.jpg)](https://lain.bgm.tv/pic/cover/l/ac/26/366793_y3V9C.jpg) | 天籟人偶 | [![](https://lain.bgm.tv/pic/cover/g/ba/28/331445_cUsfp.jpg)](https://lain.bgm.tv/pic/cover/l/ba/28/331445_cUsfp.jpg) | Do It Yourself!! |
-| [![](https://lain.bgm.tv/pic/cover/g/da/3d/389450_BbZ4n.jpg)](https://lain.bgm.tv/pic/cover/l/da/3d/389450_BbZ4n.jpg) | 秋葉原冥途戰爭 | [![](https://lain.bgm.tv/pic/cover/g/64/5a/290980_Jju6q.jpg)](https://lain.bgm.tv/pic/cover/l/64/5a/290980_Jju6q.jpg) | 前進吧！登山少女 Next Summit |
-| [![](https://lain.bgm.tv/pic/cover/g/1c/35/354414_u4TG0.jpg)](https://lain.bgm.tv/pic/cover/l/1c/35/354414_u4TG0.jpg) | SHINE POST | [![](https://lain.bgm.tv/pic/cover/g/e5/10/350224_GkByG.jpg)](https://lain.bgm.tv/pic/cover/l/e5/10/350224_GkByG.jpg) | 轉生就是劍 |
-| [![](https://lain.bgm.tv/pic/cover/g/39/96/329114_mB55b.jpg)](https://lain.bgm.tv/pic/cover/l/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | [![](https://lain.bgm.tv/pic/cover/g/26/b4/321885_92uzU.jpg)](https://lain.bgm.tv/pic/cover/l/26/b4/321885_92uzU.jpg) | 鏈鋸人 |
+| [![](https://lain.bgm.tv/pic/cover/g/e2/e7/328609_2EHLJ.jpg)](https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg) | 孤獨搖滾！ | [![](https://lain.bgm.tv/pic/cover/g/a9/db/376565_XDCfq.jpg)](https://lain.bgm.tv/pic/cover/l/a9/db/376565_XDCfq.jpg) | 4個人各自有著自己的秘密 |
+| [![](https://lain.bgm.tv/pic/cover/g/0e/c7/344874_qS88b.jpg)](https://lain.bgm.tv/pic/cover/l/0e/c7/344874_qS88b.jpg) | 我家師傅沒有尾巴 | [![](https://lain.bgm.tv/pic/cover/g/ac/26/366793_y3V9C.jpg)](https://lain.bgm.tv/pic/cover/l/ac/26/366793_y3V9C.jpg) | 天籟人偶 |
+| [![](https://lain.bgm.tv/pic/cover/g/ba/28/331445_cUsfp.jpg)](https://lain.bgm.tv/pic/cover/l/ba/28/331445_cUsfp.jpg) | Do It Yourself!! | [![](https://lain.bgm.tv/pic/cover/g/da/3d/389450_BbZ4n.jpg)](https://lain.bgm.tv/pic/cover/l/da/3d/389450_BbZ4n.jpg) | 秋葉原冥途戰爭 |
+| [![](https://lain.bgm.tv/pic/cover/g/64/5a/290980_Jju6q.jpg)](https://lain.bgm.tv/pic/cover/l/64/5a/290980_Jju6q.jpg) | 前進吧！登山少女 Next Summit | [![](https://lain.bgm.tv/pic/cover/g/1c/35/354414_u4TG0.jpg)](https://lain.bgm.tv/pic/cover/l/1c/35/354414_u4TG0.jpg) | SHINE POST |
+| [![](https://lain.bgm.tv/pic/cover/g/e5/10/350224_GkByG.jpg)](https://lain.bgm.tv/pic/cover/l/e5/10/350224_GkByG.jpg) | 轉生就是劍 | [![](https://lain.bgm.tv/pic/cover/g/39/96/329114_mB55b.jpg)](https://lain.bgm.tv/pic/cover/l/39/96/329114_mB55b.jpg) | 我想成為影之強者！ |
 
 ⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
