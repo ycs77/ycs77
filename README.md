@@ -61,7 +61,7 @@ If you think my created packages have helped you, please consider [Becoming a sp
 | --- | --- | --- | --- |
 | [![](https://lain.bgm.tv/pic/cover/g/da/3d/389450_BbZ4n.jpg)](https://lain.bgm.tv/pic/cover/l/da/3d/389450_BbZ4n.jpg) | 秋葉原冥途戰爭 | [![](https://lain.bgm.tv/pic/cover/g/a9/db/376565_XDCfq.jpg)](https://lain.bgm.tv/pic/cover/l/a9/db/376565_XDCfq.jpg) | 4個人各自有著自己的秘密 |
 | [![](https://lain.bgm.tv/pic/cover/g/64/5a/290980_Jju6q.jpg)](https://lain.bgm.tv/pic/cover/l/64/5a/290980_Jju6q.jpg) | 前進吧！登山少女 Next Summit | [![](https://lain.bgm.tv/pic/cover/g/e5/10/350224_GkByG.jpg)](https://lain.bgm.tv/pic/cover/l/e5/10/350224_GkByG.jpg) | 轉生就是劍 |
-| [![](https://lain.bgm.tv/pic/cover/g/39/96/329114_7fyAf.jpg)](https://lain.bgm.tv/pic/cover/l/39/96/329114_7fyAf.jpg) | 我想成為影之強者！ | [![](https://lain.bgm.tv/pic/cover/g/26/b4/321885_92uzU.jpg)](https://lain.bgm.tv/pic/cover/l/26/b4/321885_92uzU.jpg) | 鏈鋸人 |
+| [![](https://lain.bgm.tv/pic/cover/g/39/96/329114_7fyAf.jpg)](https://lain.bgm.tv/pic/cover/l/39/96/329114_7fyAf.jpg) | 我想成為影之強者！ | [![](https://lain.bgm.tv/pic/cover/g/26/b4/321885_C8CHo.jpg)](https://lain.bgm.tv/pic/cover/l/26/b4/321885_C8CHo.jpg) | 鏈鋸人 |
 | [![](https://lain.bgm.tv/pic/cover/g/f1/fd/349441_uND33.jpg)](https://lain.bgm.tv/pic/cover/l/f1/fd/349441_uND33.jpg) | 機動戰士鋼彈 水星的魔女 | [![](https://lain.bgm.tv/pic/cover/g/46/88/349317_JKzh6.jpg)](https://lain.bgm.tv/pic/cover/l/46/88/349317_JKzh6.jpg) | 菜鳥鍊金術師開店營業中 |
 | [![](https://lain.bgm.tv/pic/cover/g/e2/e7/328609_2EHLJ.jpg)](https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg) | 孤獨搖滾！ | [![](https://lain.bgm.tv/pic/cover/g/0e/c7/344874_qS88b.jpg)](https://lain.bgm.tv/pic/cover/l/0e/c7/344874_qS88b.jpg) | 我家師傅沒有尾巴 |
 
