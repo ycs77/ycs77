@@ -63,4 +63,4 @@ If you think my created packages have helped you, please consider [Becoming a sp
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/39/96/329114_mB55b.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/a9/79/10380_YwP4R.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/a9/79/10380_YwP4R.jpg) | 命運石之門 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/26/b4/321885_92uzU.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/26/b4/321885_92uzU.jpg) | 鏈鋸人 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/1a/75/339326_v466V.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/1a/75/339326_v466V.jpg) | 異世界舅舅 |
 
-⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
+⭐ *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐

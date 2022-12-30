@@ -59,4 +59,4 @@ If you think my created packages have helped you, please consider [Becoming a sp
 | --- | --- | --- | --- |
 <% it.data.forEach(function (anime, index) { %><%= index % 2 == 0 ? '|' : '' %> [<img src="<%= anime.subject.images.grid %>" width="48">](<%= anime.subject.images.large %>) | <%= anime.subject.name_cn %> |<%= index % 2 == 1 ? '\n' : '' %><% }) %>
 
-⭐ *[Lucas 的追番列表](https://bangumi.tv/anime/list/715333/do)* · *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
+⭐ *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
