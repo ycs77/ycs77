@@ -57,7 +57,7 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/0e/c7/344874_qS88b.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/0e/c7/344874_qS88b.jpg) | 我家師傅沒有尾巴 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e2/e7/328609_2EHLJ.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg) | 孤獨搖滾！ |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/0e/c7/344874_nT5Q8.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/0e/c7/344874_nT5Q8.jpg) | 我家師傅沒有尾巴 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e2/e7/328609_2EHLJ.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg) | 孤獨搖滾！ |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/f1/fd/349441_uND33.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/f1/fd/349441_uND33.jpg) | 機動戰士鋼彈 水星的魔女 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/64/5a/290980_Jju6q.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/64/5a/290980_Jju6q.jpg) | 前進吧！登山少女 Next Summit |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e5/10/350224_GkByG.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e5/10/350224_GkByG.jpg) | 轉生就是劍 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/3c/82/373267_ffBO8.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/3c/82/373267_ffBO8.jpg) | SPY×FAMILY 間諜家家酒 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/39/96/329114_mB55b.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/a9/79/10380_YwP4R.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/a9/79/10380_YwP4R.jpg) | 命運石之門 |
