@@ -57,10 +57,10 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/5e/85/330054_86gc8.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/5e/85/330054_86gc8.jpg) | 魔王學院的不適任者～ Ⅱ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/76/d1/393217_yhCbh.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/76/d1/393217_yhCbh.jpg) | 為了養老金去異界存八萬金 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/a5/3c/302766_Vqzpu.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/a5/3c/302766_Vqzpu.jpg) | 怕痛的我，把防禦力點滿就對了 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/be/9a/346425_J8iC6.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/be/9a/346425_J8iC6.jpg) | 不相信人類的冒險者們好像要去拯救世界 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/83/d3/374319_JSG4d.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/83/d3/374319_JSG4d.jpg) | 無意間變成狗，被喜歡的女生撿回家。 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/7e/ca/378862_PSRrl.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/7e/ca/378862_PSRrl.jpg) | 不當哥哥了！ |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/fd/3c/395714_5EeZx.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/fd/3c/395714_5EeZx.jpg) | 轉生公主與天才千金的魔法革命 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/9f/66/356413_6vqvY.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/9f/66/356413_6vqvY.jpg) | 文豪野犬 第四季 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/ec/a2/360345_62C67.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/ec/a2/360345_62C67.jpg) | 英雄王，為了窮盡武道而轉生～ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/37/d1/364822_q6Tm5.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/37/d1/364822_q6Tm5.jpg) | 關於我在無意間被隔壁的天使變成廢柴這件事 |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e8/53/341148_831I5.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e8/53/341148_831I5.jpg) | 再得一勝！ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/f6/2b/363026_191za.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/f6/2b/363026_191za.jpg) | 妖幻三重奏 |
 
 ⭐ *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
