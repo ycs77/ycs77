@@ -57,7 +57,7 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/f6/91/129807_9VAi4.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/f6/91/129807_9VAi4.jpg) | 命運石之門 0 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/ec/a2/360345_62C67.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/ec/a2/360345_62C67.jpg) | 英雄王，為了窮盡武道而轉生～ |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/f6/91/129807_9VAi4.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/f6/91/129807_9VAi4.jpg) | 命運石之門 0 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/ec/a2/360345_ooFO2.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/ec/a2/360345_ooFO2.jpg) | 英雄王，為了窮盡武道而轉生～ |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/39/96/329114_mB55b.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/39/96/329114_mB55b.jpg) | 我想成為影之強者！ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/76/d1/393217_yhCbh.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/76/d1/393217_yhCbh.jpg) | 为了养老金去异界存八万金 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/f6/2b/363026_191za.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/f6/2b/363026_191za.jpg) | 妖幻三重奏 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/37/d1/364822_y0BAy.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/37/d1/364822_y0BAy.jpg) | 關於我在無意間被隔壁的天使變成廢柴這件事 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/5e/85/330054_86gc8.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/5e/85/330054_86gc8.jpg) | 魔王學院的不適任者～ Ⅱ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/a5/3c/302766_Vqzpu.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/a5/3c/302766_Vqzpu.jpg) | 怕痛的我，把防禦力點滿就對了 |
