@@ -57,7 +57,7 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/dd/cd/356774_zOW55.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/dd/cd/356774_zOW55.jpg) | 徹夜之歌 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e9/eb/403238_A9mS1.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e9/eb/403238_A9mS1.jpg) | 機動戰士鋼彈 水星的魔女 Season 2 |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/dd/cd/356774_zOW55.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/dd/cd/356774_zOW55.jpg) | 徹夜之歌 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e9/eb/403238_yKIxL.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e9/eb/403238_yKIxL.jpg) | 機動戰士鋼彈 水星的魔女 Season 2 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/58/c1/376703_g5559.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/58/c1/376703_g5559.jpg) | 偶像大師 灰姑娘女孩 U149 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/98/5e/386809_1yR81.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/98/5e/386809_1yR81.jpg) | 【我推的孩子】 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/c7/25/395684_Ojam4.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/c7/25/395684_Ojam4.jpg) | 和山田談場 Lv999 的戀愛 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/4c/ee/323651_aFAA4.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/4c/ee/323651_aFAA4.jpg) | 熊熊勇闖異世界 PUNCH！ |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/2a/46/397025_T8Z0D.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/2a/46/397025_T8Z0D.jpg) | 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/f4/3f/379639_2wRNn.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/f4/3f/379639_2wRNn.jpg) | 勇者死了！ |
