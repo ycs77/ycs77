@@ -57,6 +57,6 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-<% it.data.forEach(function (anime, index) { %><%= index % 2 == 0 ? '|' : '' %> [<img src="<%= anime.subject.images.grid %>" width="48">](<%= anime.subject.images.large %>) | <%= anime.subject.name_cn %> |<%= index % 2 == 1 ? '\n' : '' %><% }) %>
+<% it.data.forEach(function (anime) { %><%= anime.index % 2 == 1 ? '|' : '' %> [<img src="<%= anime.subject.images.grid %>" width="48">](<%= anime.subject.images.large %>) | <%= anime.subject.name_cn %> |<%= anime.index % 2 == 0 ? '\n' : '' %><% }) %><%= it.data.length % 2 == 0 ? '' : ' | |\n' %>
 
 ⭐ *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
