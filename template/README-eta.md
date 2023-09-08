@@ -25,11 +25,11 @@
 
 下面是我的專案列表~
 
-* [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
 * [Inertia Plugin](https://github.com/ycs77/inertia-plugin) - The plugin page loader for Inertia.js.
 * [Inertia.js Laravel SSR Head](https://github.com/ycs77/inertia-laravel-ssr-head) - Simple SSR Head for Inertia Laravel.
 * [Laravel Wizard](https://github.com/ycs77/laravel-wizard) - A web Setup Wizard for Laravel application.
 * [Laravel Up](https://laravel-up.vercel.app/) - Upgrade your Laravel application from Laravel source git repository.
+* [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
 * [C Share buttons](https://github.com/ycs77/jquery-plugin-c-share) - Share to community buttons.
 * [Bootstrap Modal](https://github.com/ycs77/jquery-plugin-bsModal) - Generate bootstrap 4 modal, And crop&upload image modal.
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that supports the mobile client.
