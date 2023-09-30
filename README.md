@@ -34,7 +34,7 @@
 * [Bootstrap Modal](https://github.com/ycs77/jquery-plugin-bsModal) - Generate bootstrap 4 modal, And crop&upload image modal.
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that supports the mobile client.
 * [README 追番列表](https://github.com/ycs77/readme-anime-list) - 自動更新 README 追番列表的 GitHub Action 套件
-* [ycsPlayer](https://github.com/ycs77/ycsplayer) - 線上影音點播包廂 - 線上影音點播包廂 - 像卡拉 OK 點歌機一樣選影片或點歌~🎵 跟遠端的朋友們一起同步觀賞~✨
+* [ycsPlayer](https://github.com/ycs77/ycsplayer) - 線上影音點播包廂 - 線上影音點播包廂 - 像卡拉 OK 點歌機一樣選影片或點歌🎵 跟遠端的朋友們一起同步觀賞✨
 
 ### ⭐贊助 - Sponsor
 
