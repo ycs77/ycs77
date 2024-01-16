@@ -2,8 +2,11 @@ name: Update anime list to README
 
 on:
   push:
-  schedule:
-    - cron: '0 0 * * *'
+    branches:
+      - main
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '0 0 * * *'
 
 jobs:
   anime_list:
