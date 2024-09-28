@@ -30,11 +30,11 @@
 * [Laravel Wizard](https://github.com/ycs77/laravel-wizard) - A web Setup Wizard for Laravel application.
 * [Laravel Up](https://laravel-up.vercel.app/) - Upgrade your Laravel application from Laravel source git repository.
 * [Headless UI Float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
-* [C Share buttons](https://github.com/ycs77/jquery-plugin-c-share) - Share to community buttons.
 * [Bootstrap Modal](https://github.com/ycs77/jquery-plugin-bsModal) - Generate bootstrap 4 modal, And crop&upload image modal.
 * [Bootstrap Steps](https://github.com/ycs77/bootstrap-steps) - A simple Bootstrap steps plugin, that supports the mobile client.
 * [README 追番列表](https://github.com/ycs77/readme-anime-list) - 自動更新 README 追番列表的 GitHub Action 套件
 * [ycsPlayer](https://github.com/ycs77/ycsplayer) - 線上影音點播包廂 - 線上影音點播包廂 - 像卡拉 OK 點歌機一樣選影片或點歌🎵 跟遠端的朋友們一起同步觀賞✨
+* [生肖諧音字產生器](https://github.com/ycs77/zodiac-homophone-generator) - 一起來產生生肖諧音字~
 
 ### ⭐贊助 - Sponsor
 
