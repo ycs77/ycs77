@@ -58,7 +58,7 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/5f/84/389156_J4gqQ.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/5f/84/389156_J4gqQ.jpg) | 地。-關於地球的運動- | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/d2/81/445821_88mLB.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/d2/81/445821_88mLB.jpg) | 刀劍神域外傳 Gun Gale Online II |
+| [<img src="https://lain.bgm.tv/r/100/pic/cover/l/5f/84/389156_J4gqQ.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/5f/84/389156_J4gqQ.jpg) | 地。-關於地球的運動- | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/d2/81/445821_pc44z.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/d2/81/445821_pc44z.jpg) | 刀劍神域外傳 Gun Gale Online II |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/44/7d/467461_HHw4K.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/44/7d/467461_HHw4K.jpg) | 膽大黨 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/ab/e5/460306_s7Y8n.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/ab/e5/460306_s7Y8n.jpg) | 青之箱 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/30/50/429305_yRkyp.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/30/50/429305_yRkyp.jpg) | 聽說你們要結婚！？ | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/26/d6/425998_dnzr8.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/26/d6/425998_dnzr8.jpg) | Re：從零開始的異世界生活 第三季 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/e6/cb/491151_rNnm5.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/e6/cb/491151_rNnm5.jpg) | 最狂輔助職業【話術士】世界最強戰團聽我號令 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/fe/ab/470045_zA9BA.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/fe/ab/470045_zA9BA.jpg) | 噗妮露是可愛史萊姆 |
