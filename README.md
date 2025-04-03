@@ -56,11 +56,13 @@ If you think my created packages have helped you, please consider [Becoming a sp
 
 ### ⭐追番 - Anime
 
+<!-- anime-list start -->
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/ce/3c/430699_hsj90.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/ce/3c/430699_hsj90.jpg) | 金牌得主 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/60/00/424454_lzj2O.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/60/00/424454_lzj2O.jpg) | 魔法使光之美少女！！～未来之日～ |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/8f/8a/445827_L6Zh0.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/8f/8a/445827_L6Zh0.jpg) | 雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/9f/d7/471578_wzPi0.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/9f/d7/471578_wzPi0.jpg) | Dr.STONE 新石紀 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/77/c3/454684_ZH5tU.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/77/c3/454684_ZH5tU.jpg) | BanG Dream! Ave Mujica | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/b8/26/498934_KffF9.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/b8/26/498934_KffF9.jpg) | 群花綻放、彷如修羅 |
 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/2e/d7/510728_P22GO.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/2e/d7/510728_P22GO.jpg) | Re：從零開始的異世界生活 第三季 | [<img src="https://lain.bgm.tv/r/100/pic/cover/l/5f/84/389156_J4gqQ.jpg" width="48">](https://lain.bgm.tv/pic/cover/l/5f/84/389156_J4gqQ.jpg) | 地。-關於地球的運動- |
+<!-- anime-list end -->
 
 ⭐ *[我也想要在 README 放追番列表 (那就點這裡~)](https://github.com/ycs77/readme-anime-list)* ⭐
