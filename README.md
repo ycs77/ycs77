@@ -16,7 +16,7 @@
 [![Laravel Logo](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
 [![Vue.js Logo](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
 [![Tailwind CSS Logo](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
-<a href="https://inertiajs.com/"><img src="https://star-note-lucas.vercel.app/images/inertiajs-logo-rounded.svg" width="48" height="48"></a>
+<a href="https://inertiajs.com/"><img src="https://star-note-lucas.me/images/inertiajs-rounded.svg" width="48" height="48"></a>
 [![TypeScript Logo](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Vite Logo](https://skillicons.dev/icons?i=vite&theme=light)](https://vitejs.dev/)
 [![VSCode Logo](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
@@ -40,7 +40,7 @@
 
 如果我製作的套件有幫助到你，可以考慮[贊助我](https://www.patreon.com/ycs77)~ 我會很感謝你~ 而且還可以顯示您的大頭貼在我的主要專案中。
 
-If you think my created packages have helped you, please consider [Becoming a sponsor](https://www.patreon.com/ycs77) to support my work~ and your avatar will be visible on my major projects.
+If my created packages have helped you, please consider [becoming a sponsor](https://www.patreon.com/ycs77) to support my work. Your avatar will be displayed on my major projects.
 
 <p align="center">
   <a href="https://www.patreon.com/ycs77">
