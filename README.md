@@ -16,7 +16,7 @@
 [![Laravel Logo](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
 [![Vue.js Logo](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
 [![Tailwind CSS Logo](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
-<a href="https://inertiajs.com/"><img src="https://star-note-lucas.me/images/inertiajs-rounded.svg" width="48" height="48"></a>
+[![Inertia.js Logo](https://star-note-lucas.me/images/inertiajs-skill.svg)](https://inertiajs.com/)
 [![TypeScript Logo](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Vite Logo](https://skillicons.dev/icons?i=vite&theme=light)](https://vitejs.dev/)
 [![VSCode Logo](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
